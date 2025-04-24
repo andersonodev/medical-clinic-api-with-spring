@@ -111,7 +111,7 @@ Full API documentation is available at /swagger-ui.html when the application is 
 src/
 ├── main/
 │   ├── java/
-│   │   └── dev/raniery/med/voll/api/
+│   │   └── dev/anderson/med/voll/api/
 │   │       ├── controller/
 │   │       ├── domain/
 │   │       ├── infra/

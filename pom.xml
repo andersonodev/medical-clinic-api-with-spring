@@ -11,7 +11,7 @@
         <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>dev.raniery.med.voll</groupId>
+    <groupId>dev.anderson.med.voll</groupId>
     <artifactId>API</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
